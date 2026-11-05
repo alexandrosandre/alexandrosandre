@@ -1,5 +1,3 @@
-## Alexandros Andre Chaaraoui
-
 I build with coding agents, attended and unattended. These repositories share how: the rules the agents follow, the skills they run, and the agents that work without a person at the keyboard.
 
 ### Repositories
