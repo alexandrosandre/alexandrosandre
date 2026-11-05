@@ -1,6 +1,6 @@
 ### Alexandros Andre Chaaraoui
 
-Used to code backend code and ML algorithms, now I prompt.
+Used to work on backend code, data and ML algorithms, now I prompt.
 
 ### Public Repositories
 
