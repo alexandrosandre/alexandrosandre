@@ -1,6 +1,8 @@
-I build with coding agents, attended and unattended. These repositories share how: the rules the agents follow, the skills they run, and the agents that work without a person at the keyboard.
+### Alexandros Andre Chaaraoui
 
-### Repositories
+Used to code backend code and ML algorithms, now I prompt.
+
+### Public Repositories
 
 | Repository | What it is |
 | --- | --- |
